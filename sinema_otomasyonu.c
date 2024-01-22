@@ -1,7 +1,3 @@
-//RUKIYE UCAR
-//21100011057
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -85,6 +81,5 @@ int main()
         }
 
         return 0;
-
 
 }
